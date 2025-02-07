@@ -16,5 +16,10 @@ class LeanProductApplicationTests {
         a+=b;
         System.out.println(a+"-"+b);
     }
+    
+    @Test
+    public void test2(){
+        System.out.println(3*0.1==0.3);
+    }
 
 }
