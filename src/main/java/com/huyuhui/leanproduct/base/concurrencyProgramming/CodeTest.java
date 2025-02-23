@@ -1,4 +1,4 @@
-package com.huyuhui.leanproduct.concurrencyProgramming;
+package com.huyuhui.leanproduct.base.concurrencyProgramming;
 
 import org.springframework.transaction.annotation.Transactional;
 

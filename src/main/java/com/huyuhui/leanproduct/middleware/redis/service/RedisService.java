@@ -1,4 +1,4 @@
-package com.huyuhui.leanproduct.redis.service;
+package com.huyuhui.leanproduct.middleware.redis.service;
 
 import java.util.*;
 import java.util.concurrent.TimeUnit;

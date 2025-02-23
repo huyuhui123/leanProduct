@@ -1,4 +1,4 @@
-package com.huyuhui.leanproduct.forest;
+package com.huyuhui.leanproduct.tool.forest;
 
 import com.dtflys.forest.annotation.Get;
 

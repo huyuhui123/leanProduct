@@ -1,4 +1,4 @@
-package com.huyuhui.leanproduct.redis.service;
+package com.huyuhui.leanproduct.middleware.redis.service;
 
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.data.redis.core.RedisTemplate;

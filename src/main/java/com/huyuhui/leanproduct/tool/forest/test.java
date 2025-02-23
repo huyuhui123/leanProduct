@@ -1,4 +1,4 @@
-package com.huyuhui.leanproduct.forest;
+package com.huyuhui.leanproduct.tool.forest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
