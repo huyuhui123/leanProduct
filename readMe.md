@@ -8,10 +8,13 @@
 
 永远只以项目中出现问题的地方为出发点去积累技术
 
-todo
+ai只是帮助，要转化成自己的才有用
+
+
 
 https://www.bilibili.com/list/watchlater?oid=113742410948516&bvid=BV1iz6GYKEPt&spm_id_from=333.1387.top_right_bar_window_view_later.content.click
 
+### 项目结构
 - base-基础：java基础、线程池、
 - businessAnalysis-业务分析：认证功能、权限设计、
 - database-数据库：mysql、mongodb、事务
@@ -19,9 +22,10 @@ https://www.bilibili.com/list/watchlater?oid=113742410948516&bvid=BV1iz6GYKEPt&s
 - middleware-中间件：MQ、redis
 - project-开源项目：crmeb
 - tool-工具：forest
-- 
 
-
+### 近期文章
+- [MVC三层架构使用类分层做数据隔离](src/main/java/com/huyuhui/leanproduct/framework/own/mvcClass/readMe.md)
+- [Spring工厂模式（未看完）](src/main/java/com/huyuhui/leanproduct/framework/out/spring/readME.md)
 
 
 研究技术需要找对方向，不然效率很低，需要检视自己在一个方向的研究所花的时间和成果的比例

@@ -1,4 +1,4 @@
-# 工厂模式的意义
+## 工厂模式的意义
 
 在spring中，获取一个对象基本的代码就是
 1. 读取xml文件
@@ -29,6 +29,8 @@ public class MyController {
 和mybatis一样，其实本质就是使用封装特性解决问题，不过关键在于它是怎么设计项目才能达到功能又便于管理？
 
 当要new一个有着复杂依赖关系的对象，比如A依赖B、B依赖C，这样我要先new ABC，然后再按顺序设置好属性，虽然可以和上面一样在构造器实现，但不灵活，要是能用配置的方式完成就好了
+
+## BeanFactory
 
 spring有一个BeanFactory，它是工厂模式的核心，它是一个接口，有很多不同的方式创建工厂，比如通过解析xml创建工厂的 XmlBeanFactory
 它通过spring特有的解析资源类Resource来生成 XmlBeanFactory，值得说的是它的构造方法其实还有一个parentBeanFactory参数，也就是说BeanFactory也不是平级的，而是有层架关系的，并且它不单单是从xml创建bean那么简单
