@@ -1,5 +1,28 @@
 # 技术积累项目
 
+
+## 项目结构
+- base-基础：java基础、线程池、
+  - [java并发的艺术读书笔记（未完成）](src/main/java/com/huyuhui/leanproduct/base/concurrencyProgramming/java并发编程的艺术读书笔记.md)
+- businessAnalysis-业务分析：认证功能（0）、权限设计（0）、聊天（0）
+- database-数据库：mysql（0）、mongodb（0）、事务（0）
+- framework-框架知识：spring、mybatis、cloud
+  - [Spring工厂模式（未看完）](src/main/java/com/huyuhui/leanproduct/framework/out/spring/readME.md)
+  - [MVC三层架构使用类分层做数据隔离](src/main/java/com/huyuhui/leanproduct/framework/own/mvcClass/readMe.md)
+- middleware-中间件：MQ、redis
+  - [redis锁设计](src/main/java/com/huyuhui/leanproduct/middleware/redis/readMe.md)
+- project-开源项目：crmeb
+  - [crmeb项目学习](src/main/java/com/huyuhui/leanproduct/project/crmeb/readMe.md)
+- tool-工具：forest
+  - [forest工具尝试（未完成）](src/main/java/com/huyuhui/leanproduct/tool/forest/readMe.md)
+
+## 近期文章
+- [Spring工厂模式（未看完）](src/main/java/com/huyuhui/leanproduct/framework/out/spring/readME.md)
+- [MVC三层架构使用类分层做数据隔离](src/main/java/com/huyuhui/leanproduct/framework/own/mvcClass/readMe.md)
+
+
+## 心得
+
 从项目出发去关注真正常用、重要的技术底层
 
 确定了需要就静下心来慢慢做，不过也不要忽视了总体的视角
@@ -13,19 +36,6 @@ ai只是帮助，要转化成自己的才有用
 
 
 https://www.bilibili.com/list/watchlater?oid=113742410948516&bvid=BV1iz6GYKEPt&spm_id_from=333.1387.top_right_bar_window_view_later.content.click
-
-### 项目结构
-- base-基础：java基础、线程池、
-- businessAnalysis-业务分析：认证功能、权限设计、
-- database-数据库：mysql、mongodb、事务
-- framework-框架知识：spring、mybatis
-- middleware-中间件：MQ、redis
-- project-开源项目：crmeb
-- tool-工具：forest
-
-### 近期文章
-- [MVC三层架构使用类分层做数据隔离](src/main/java/com/huyuhui/leanproduct/framework/own/mvcClass/readMe.md)
-- [Spring工厂模式（未看完）](src/main/java/com/huyuhui/leanproduct/framework/out/spring/readME.md)
 
 
 研究技术需要找对方向，不然效率很低，需要检视自己在一个方向的研究所花的时间和成果的比例
